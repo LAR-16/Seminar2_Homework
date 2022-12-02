@@ -1,0 +1,15 @@
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\bin\Debug\net6.0\task15.exe
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\bin\Debug\net6.0\task15.deps.json
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\bin\Debug\net6.0\task15.dll
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\bin\Debug\net6.0\task15.pdb
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\obj\Debug\net6.0\task15.dll
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\obj\Debug\net6.0\refint\task15.dll
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\obj\Debug\net6.0\task15.pdb
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+C:\Users\М\OneDrive\Рабочий стол\Homework2\Seminar2_Homework\task15\obj\Debug\net6.0\ref\task15.dll
