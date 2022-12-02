@@ -3,7 +3,7 @@
 Console.Write("Введите число: ");
 string? b = Console.ReadLine();
 
-int x = Int32.Parse(b);
+int x = Int32.Parse(b); // преобразует строку в число
 if (x < 100) 
     Console.WriteLine("Третьей цифры нет");
 else
