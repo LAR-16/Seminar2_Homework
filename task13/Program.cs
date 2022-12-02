@@ -1,11 +1,19 @@
 ﻿Console.Clear();
 
 Console.Write("Введите число: ");
-string? b = Console.ReadLine();
+int n = Convert.ToInt32(Console.ReadLine());
 
-int x = Int32.Parse(b); // преобразует строку в число
-if (x < 100) 
-    Console.WriteLine("Третьей цифры нет");
+if (n > 99)
+{
+int x = n % 1000;
+Console.WriteLine(x);
+Console.WriteLine(x/100);
+
+}
 else
-    Console.WriteLine(Convert.ToInt32(b[2].ToString()));
+{
+  Console.WriteLine("Третьей цифры нет");  
+}
+
+
 
